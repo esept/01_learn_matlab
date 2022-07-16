@@ -1,5 +1,5 @@
-% 1. create a row vector of 1¡¯s that has  same number of elements as A has rows
-% 2. create a column vector of 1¡¯s that has the same number of elements as A has columns
+% 1. create a row vector of 1ï¿½ï¿½s that has  same number of elements as A has rows
+% 2. create a column vector of 1ï¿½ï¿½s that has the same number of elements as A has columns
 % 3. using matrix multiplication, assign the product of the row vector,the matrix A, 
 %    and the column vector (in this order) to the variable result
 
